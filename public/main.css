@@ -1,0 +1,45 @@
+body {
+  background-color: antiquewhite;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  margin: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+#left {
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  text-align: center;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+#works {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#coach,
+#player {
+  display: flex;
+  flex-direction: column;
+}
+
+#player-photo {
+  display: flex;
+  justify-content: space-between;
+  width: 10rem;
+}

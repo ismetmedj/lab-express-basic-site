@@ -1,0 +1,10 @@
+#img-enfant {
+  display: flex;
+  justify-content: flex-start;
+  width: 40rem;
+  margin-top: 2rem;
+}
+
+.about-page {
+  height: 10rem;
+}
