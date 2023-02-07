@@ -42,4 +42,9 @@ p {
   display: flex;
   justify-content: space-between;
   width: 10rem;
+  margin-left: 2rem;
+}
+
+.player-page {
+  margin-left: 4rem;
 }

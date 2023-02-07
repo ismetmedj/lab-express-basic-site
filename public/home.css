@@ -3,3 +3,9 @@ section {
   background-repeat: round;
   height: 90vh;
 }
+
+h2,
+h3 {
+  width: 4rem;
+  text-align: center;
+}
